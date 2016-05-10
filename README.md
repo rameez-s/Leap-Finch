@@ -33,5 +33,7 @@ For my final CS project, I wanted to combine the ability to use my hand in the p
 
 Made by: Rameez Saiyid
 
+Taught by: Meg Richards
+
 Anyone is welcome to fork this code and add any of their own modifications, I'd be happy to see what people make of it!
 
