@@ -32,5 +32,6 @@ For my final CS project, I wanted to combine the ability to use my hand in the p
 ## Contributors
 
 Made by: Rameez Saiyid
+
 Anyone is welcome to fork this code and add any of their own modifications, I'd be happy to see what people make of it!
 
