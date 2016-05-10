@@ -25,7 +25,7 @@ For my final CS project, I wanted to combine the ability to use my hand in the p
 
 ## Runs
 
-![Moving Forward](http://i.imgur.com/s6qnQ3x.gifv)
+![](http://i.imgur.com/s6qnQ3x.gifv)
 ![Moving in Reverse](http://i.imgur.com/Qs1Ux6y.gifv)
 ![Turning](http://i.imgur.com/oVXY1Uk.gifv)
 
