@@ -39,23 +39,23 @@ void draw() {
 
     //pitch
     if (pitch > 10) {
-      jo.setWheelVelocities(-finchp(), -finchp());
+      jo.setWheelVelocities(-255, -255);
     }
     if (pitch < -10) {
-      jo.setWheelVelocities(finchp(), finchp());
+      jo.setWheelVelocities(255, 255);
     }
 
 
     //roll
     if (roll > 30) {
-      jo.setWheelVelocities(-finchr(), finchr());
+      jo.setWheelVelocities(-255, 255);
     }
     if (roll < -30) {
-      jo.setWheelVelocities(finchr(), -finchr());
+      jo.setWheelVelocities(255, -255);
     }
   }
 }
-
+/* Code to be fixed: This is the rough sketch up for variable speed
 int finchp() {
   for (Hand hand : leap.getHandList ()) {
     float pitch = leap.getPitch(hand);
@@ -70,3 +70,4 @@ int finchr() {
     return int((r/90)*255);
   }
 }
+*/
