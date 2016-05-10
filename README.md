@@ -25,9 +25,9 @@ For my final CS project, I wanted to combine the ability to use my hand in the p
 
 ## Runs
 
-![Moving Forward](https://github.com/rameez-s/Leap-Finch/raw/master/images/forward.gif)
-![Moving in Reverse](https://github.com/rameez-s/Leap-Finch/raw/master/images/reverse.gif)
-![Turning](https://github.com/rameez-s/Leap-Finch/raw/master/images/turn.gif)
+![Moving Forward](http://i.imgur.com/s6qnQ3x.gifv)
+![Moving in Reverse](http://i.imgur.com/Qs1Ux6y.gifv)
+![Turning](http://i.imgur.com/oVXY1Uk.gifv)
 
 ## Contributors
 
